@@ -27,7 +27,9 @@ print("Server is listening...")
 
 while True:
     client_socket, client_address = server_s…
-[5:33 pm, 15/11/2023] Lavakumar Aiml: clint side code:
+
+#clint side code
+#this client code should be run in different system
 
 import socket
 
