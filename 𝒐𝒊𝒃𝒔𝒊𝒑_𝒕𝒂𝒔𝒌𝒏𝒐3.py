@@ -1,4 +1,6 @@
-[5:31 pm, 15/11/2023] Lavakumar Aiml: import string
+#Project Title : Simple Password Generator
+
+import string
 import random
 import tkinter as tk
 from tkinter import messagebox
